@@ -1,6 +1,6 @@
 # Insertion-Sort-Projesi 
 
-Patika.dev Insertion-Sort-Projes [Patika.dev](https://www.patika.dev/tr
+Patika.dev Insertion-Sort-Projes [Patika.dev](https://www.patika.dev/tr)
 
 1-[22,27,16,2,18,6] dizinin sort türüne göre aşamalarını yazınız.
 
